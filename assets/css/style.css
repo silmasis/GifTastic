@@ -1,0 +1,25 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    background: #e43a15;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #e65245, #e43a15);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #e65245, #e43a15); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    letter-spacing: 2px;
+}
+
+.title {
+    /* font-family: 'Chelsea Market', cursive; */
+    font-family: 'Modak', cursive;
+    letter-spacing: 5px;
+}
+
+.card {
+    margin-bottom: 50px;
+}
+
+.topicButton {
+    margin: 3px;
+    color: white;
+    background-color: black;
+    border-color: black;
+    border-radius: 5px;
+}
